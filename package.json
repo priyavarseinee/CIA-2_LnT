@@ -1,0 +1,16 @@
+{
+  "name": "task-logger",
+  "version": "1.0.0",
+  "description": "Command-line Task Logger app for CIA-2 - Node.js & Asynchronous JavaScript",
+  "main": "logger.js",
+  "scripts": {
+    "start": "node logger.js",
+    "dev": "nodemon logger.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "author": "Priyavarseinee Anthiyur Somasundaram",
+  "license": "ISC"
+}

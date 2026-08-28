@@ -1,4 +1,3 @@
-# CIA-2_LnT
 # Task Logger — CIA-2 Practical (Set 1)
 
 **Name:** Priyavarseinee Anthiyur Somasundaram
@@ -38,4 +37,3 @@ npm run dev
 ## Task 11 error-demo
 
 To see the `catch` block fire, open `logger.js` and uncomment the line inside the `rl.question` callback that points `saveTaskAsync` at `./no-such-folder/tasks.txt`.
-
